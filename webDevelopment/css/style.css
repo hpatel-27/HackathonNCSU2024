@@ -302,3 +302,17 @@ footer a:focus, footer a:hover {
 .copy {
     font-size: 1em;
 }
+
+.title {
+    text-align: center;
+    font-size: 60px;
+    color: red;
+}
+@media screen and (max-width: 767px) {
+    .title {
+        font-size: 30px;
+    }
+    nav {
+        width: 300px;
+    }
+}
