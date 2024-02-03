@@ -139,17 +139,17 @@ section h1 {
 }
 
 hr {
-    border-color: #b02828;
+    border-color: #333;
     border-style: solid;
     position: absolute;
-    width: 80%
+    width: 83%
 }
 
 .hr-first {
-    border-color: #b02828;
+    border-color: #333;
     border-style: solid;
     position: absolute;
-    width: 80%
+    width: 83%
 }
 
 
@@ -276,12 +276,12 @@ hr {
 
 /*Footer*/
 footer {
-    padding: 2em 0;
+    padding: 1em 0;
     width: 100%;
     text-align: center;
     background: #d3d3d3;
 }
-footer .nav-ul {
+/* footer .nav-ul {
     justify-content: center;
     margin-bottom: 1em;
 }
@@ -298,7 +298,7 @@ footer a {
 }
 footer a:focus, footer a:hover {
     color: #333;
-}
+} */
 .copy {
     font-size: 1em;
 }
